@@ -1,0 +1,12 @@
+.react-time-picker__wrapper {
+  flex: 1;
+  background-color: var(--gray);
+  border: 1px solid var(--gray) !important;
+  height: 45px;
+  border-radius: 50px;
+  padding: 0em 1.5em;
+  font-size: 13px;
+  color: var(--text-color);
+  outline: none;
+  margin-bottom: 1.5em;
+}
